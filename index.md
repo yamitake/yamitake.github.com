@@ -12,7 +12,7 @@ Yamitake のgithubで公開しているソースの紹介ページです。
 
 <div class="row">
   <div class="span5">
-    <h2>jquery.fluentgallery.js</h2>
+    <h2><a href="http://yamitake.github.com/jquery.fluentgallery.js">jquery.fluentgallery.js</a></h2>
     <p>
       <span itemscope="" itemref="rectangle" itemtype="http://growbutton.com/ns#button">
       <span itemprop="url">http://yamitake.github.com/jquery.fluentgallery.js/</span>
