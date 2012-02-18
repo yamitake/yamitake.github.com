@@ -17,7 +17,7 @@ Yamitake のgithubで公開しているソースの紹介ページです。<br /
       <span itemprop="url">http://yamitake.github.com/jquery.fluentgallery.js/</span>
       <span itemprop="title">yamitake's github page | jquery.fluentgallery.js</span>
       </span>
-    <p>pinterestの用に高さが不揃いの要素をタイル上に敷き詰めることができるpluginです。</p>
+    <p>pinterestの様に高さが不揃いの要素をタイル上に敷き詰めることができるpluginです。</p>
   </div>
   <div class="span5">
     <h2><a href="https://github.com/yamitake/jquery.reversi.js">jquery.reversi.js</a></h2>
