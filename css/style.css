@@ -1,5 +1,9 @@
 body {
+  background:url(../images/bg.jpg) fixed right bottom no-repeat;
   padding-top: 60px;
   padding-bottom: 40px;
 }
 
+.growme{
+  text-align:right;
+}
